@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>GEETHANJALI-Portfolio</title>
+    </head>
+    <body>
+        <h1>Geethanjali</h1>
+        <h2>About me</h2>
+        <p>My name is Geethanjali,and I am currently in my 3rd year of my college studying Artificial Intelligence and Machine Learning in HKBK College of Engineering,Karnataka.
+        <h3>SKILLS</h3>
+        <ul>
+            <li>Communication</li>
+            <li>Leadership</li>
+            <li>Creativity </li>
+            <li>Problem solving</li>
+            <li>Time management </li>
+            <li>Active listening</li>
+        </ul>
+        <h4>INTERESTS</h4>
+        <ul>
+            <li>Photography</li>
+            <li>Cooking</li>
+            <li>Listening music</li>
+        </ul>
+         <p>Email : balusugeethanjali979@gmail.com</p>
+    </body>
+</html>
+
